@@ -1,0 +1,11 @@
+.bodyContent {
+    width: 300px;
+    height: 500px;
+    background-color: green;
+    border-radius: 25px;
+    margin:25px;
+}
+.adbicon {
+    background-color: yellow;
+    font-size: large;
+}
